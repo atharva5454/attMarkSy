@@ -1,0 +1,14 @@
+# Face Recognition Attendance System - Dependencies
+
+# Core OpenCV with face recognition module
+opencv-contrib-python==4.8.1.78
+
+# Data handling
+numpy==1.24.3
+pandas==2.0.3
+
+# Web interface
+streamlit==1.28.0
+
+# Additional utilities
+Pillow==10.0.1
